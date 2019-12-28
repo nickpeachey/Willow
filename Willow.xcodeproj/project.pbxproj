@@ -440,14 +440,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Willow/Preview Content\"";
-				DEVELOPMENT_TEAM = YX7M422D3G;
+				DEVELOPMENT_TEAM = 8M7FJD72WR;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Willow/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.cawooka.Willow;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ao.Willow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -460,14 +460,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Willow/Preview Content\"";
-				DEVELOPMENT_TEAM = YX7M422D3G;
+				DEVELOPMENT_TEAM = 8M7FJD72WR;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Willow/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.cawooka.Willow;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ao.Willow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
